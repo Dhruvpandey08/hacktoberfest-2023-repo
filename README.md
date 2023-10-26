@@ -5,7 +5,7 @@
 
 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
-📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
+📢 **Register [here](https://hacktoberfest.com/) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
 ## Contributing
 
