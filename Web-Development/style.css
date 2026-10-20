@@ -6,7 +6,7 @@
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #111;   
+    background-color: #111;
 }
 
 html,
@@ -62,7 +62,7 @@ body{
 
 .banner
 {
-    background-image: url(images/banner.jpg);
+    background-image: url(./images/banner.jpg);
     background-size: cover;
     background-position: center center;
     color: white;
@@ -160,54 +160,54 @@ footer {
     border-top: 1px solid #333;
     padding: 40px 0;
   }
-  
+
   .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
   }
-  
+
   .footer-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  
+
   .footer-column {
     width: 100%;
     max-width: 300px;
     margin-bottom: 20px;
   }
-  
+
   .footer-column h3 {
     font-size: 18px;
     margin-bottom: 10px;
   }
-  
+
   .footer-column ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
-  
+
   .footer-column ul li {
     margin-bottom: 10px;
   }
-  
+
   .footer-column ul li a {
     color: #777;
     text-decoration: none;
   }
-  
+
   .social-icons li {
     display: inline-block;
     margin-right: 10px;
   }
-  
+
   .social-icons li:last-child {
     margin-right: 0;
   }
-  
+
   .social-icons li a {
     color: #fff;
     text-decoration: none;
@@ -215,4 +215,3 @@ footer {
   }
 
 
-  
